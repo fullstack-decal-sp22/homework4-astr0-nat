@@ -1,6 +1,7 @@
 import React from "react";
 import './styles/Game.css';
 import Board from "./Board";
+// probably keeps track of score and if someone wins, has access to the board
 
 function Game() {
     
